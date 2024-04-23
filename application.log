@@ -1,0 +1,4 @@
+Apr 23, 2024 5:48:25 PM DataLoad loadCustomers
+WARNING: Invalid customer data: webshop2,cust008,Bob Brown
+Apr 23, 2024 5:48:25 PM DataLoad loadPayments
+WARNING: Invalid payment data: webshop4,transfer,3000,0987654321,,2024-04-02
